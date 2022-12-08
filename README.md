@@ -1,6 +1,10 @@
 # Hi, I´m Virginia 😄 I´m a Front-End Developer and UX/UI Designer.
 
-###### Since I started working as a UX / UI designer, development made me curious. Following that curiosity, I did a bootcamp as a Full-Stack Developer and I loved it. Now I work as a Front End developer in a great company where every day I learn something new. 
+###### Since I started working as a UX / UI designer, the development piqued my interest. Following that curiosity, I did a bootcamp as Full-Stack Developer and I loved it.
+
+###### My years as a freelancer helped me to be decisive in my projects, not to be afraid of new challenges and to be self-demanding.
+
+###### In my current position, I am improving my skills in Front-end development meanwhile my previous experience in UX/UI gives me a special sensibility to details.
 ###### HTML, CSS, Bootstrap, JavaScript, BabelJS, DOM, WebPack, React, Angular, Flux, Context API, SQL, MySQL, Python, Flask, SQLAlchemy, git, GitHub.
 
 <!--
