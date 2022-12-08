@@ -5,7 +5,8 @@
 ###### My years as a freelancer helped me to be decisive in my projects, not to be afraid of new challenges and to be self-demanding.
 
 ###### In my current position, I am improving my skills in Front-end development meanwhile my previous experience in UX/UI gives me a special sensibility to details.
-###### HTML, CSS, Bootstrap, JavaScript, BabelJS, DOM, WebPack, React, Angular, Flux, Context API, SQL, MySQL, Python, Flask, SQLAlchemy, git, GitHub.
+###### ⚡ HTML, CSS, Bootstrap, JavaScript, BabelJS, DOM, WebPack, React, Angular, Flux, Context API, SQL, MySQL, Python, Flask, SQLAlchemy, git, GitHub.
+###### ✏️ Figma, Sketch, Zeplin, Adobe XD, Adobe Creative Suit.
 
 <!--
 **VirginiaKMartinez/VirginiaKMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
