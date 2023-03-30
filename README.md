@@ -4,7 +4,13 @@
 
 #### My years as a freelancer helped me to be decisive in my projects, not to be afraid of new challenges and to be self-demanding.
 
-#### In my current position, I am improving my skills in Front-end development meanwhile my previous experience in UX/UI gives me a special sensibility to details.
+#### I am a highly motivated web frontend developer and UX/UI designer with a passion for creating beautiful and intuitive user experiences. 
+
+#### I have a strong eye for detail and a deep understanding of the user experience. I have a knack for understanding the underlying needs of users and creating designs that are both aesthetically pleasing and highly functional. 
+#### My experience in web development and design gives me the skills to create unique, high-quality websites that are both visually stunning and highly functional.
+
+#### My experience in both development and design makes me a valuable asset to any team.
+
 ##### ⚡ HTML, CSS, Bootstrap, JavaScript, TypeScript, BabelJS, DOM, WebPack, React, Angular, Flux, Context API, SQL, MySQL, Python, Flask, SQLAlchemy, git, GitHub.
 ##### ✏️ Figma, Sketch, Zeplin, Adobe XD, Adobe Creative Suit.
 
