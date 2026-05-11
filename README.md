@@ -1,30 +1,52 @@
-# Hi, I´m Virginia 😄 I´m a Front-End Developer and UX/UI Designer.
+# Hi, I’m Virginia Martínez
 
-#### Since I started working as a UX / UI designer, the development piqued my interest. Following that curiosity, I did a bootcamp as Full-Stack Developer and I loved it.
+## Digital Product Designer | UX/UI · Design Systems · Front-End Collaboration
 
-#### My years as a freelancer helped me to be decisive in my projects, not to be afraid of new challenges and to be self-demanding.
+I’m a **Digital Product Designer based in France**, with a background in **Front-End development** and experience designing **B2B digital products**, documented **design systems**, user journeys and scalable interfaces.
 
-#### I am a highly motivated web frontend developer and UX/UI designer with a passion for creating beautiful and intuitive user experiences. 
+My work sits at the intersection of **product design, UX/UI and technical collaboration**. I enjoy creating clear, useful and technically feasible digital experiences, especially in environments where design and development need to work closely together.
 
-#### I have a strong eye for detail and a deep understanding of the user experience. I have a knack for understanding the underlying needs of users and creating designs that are both aesthetically pleasing and highly functional. 
-#### My experience in web development and design gives me the skills to create unique, high-quality websites that are both visually stunning and highly functional.
+---
 
-#### My experience in both development and design makes me a valuable asset to any team.
+## What I focus on
 
-##### ⚡ HTML, CSS, Bootstrap, JavaScript, TypeScript, BabelJS, DOM, WebPack, React, Angular, Flux, Context API, SQL, MySQL, Python, Flask, SQLAlchemy, git, GitHub.
-##### ✏️ Figma, Sketch, Zeplin, Adobe XD, Adobe Creative Suit.
+- UX/UI design for digital products
+- Design systems and component documentation
+- User journeys, wireframes and prototypes
+- B2B products and complex interfaces
+- Design-development collaboration
+- Front-end implementation awareness
+- Accessibility, consistency and usability
 
-<!--
-**VirginiaKMartinez/VirginiaKMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Recent experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I worked as a **Product Designer at Staff & Go**, where I built and documented a **B2B design system from scratch**, including UI foundations, components, usage guidelines and implementation documentation for developers and project managers.
+
+My Front-End background helps me collaborate effectively with technical teams, understand implementation constraints and design interfaces that are not only visually consistent, but also realistic to build and maintain.
+
+---
+
+## Tools and technologies
+
+### Design
+
+Figma · Adobe Creative Suite · UX/UI Design · Prototyping · Design Systems · Component Documentation · Information Architecture
+
+### Front-End
+
+HTML · CSS · Sass · JavaScript · TypeScript · Angular · React · Git · GitHub
+
+---
+
+## Currently
+
+I’m currently looking for a **Digital Product Designer / Product Designer / UX/UI Designer** role in France, ideally in a product, SaaS, B2B or digital environment where I can contribute to UX/UI quality, design systems and collaboration between design and development teams.
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/virginiakmartinez](https://www.linkedin.com/in/virginiakmartinez/)
+- GitHub: [github.com/virginiakmartinez](https://github.com/virginiakmartinez)
