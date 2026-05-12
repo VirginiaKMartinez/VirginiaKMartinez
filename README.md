@@ -48,5 +48,6 @@ I’m currently looking for a **Digital Product Designer / Product Designer / UX
 
 ## Contact
 
+- Mail: hello@virginiak.dev
 - LinkedIn: [linkedin.com/in/virginiakmartinez](https://www.linkedin.com/in/virginiakmartinez/)
 - GitHub: [github.com/virginiakmartinez](https://github.com/virginiakmartinez)
